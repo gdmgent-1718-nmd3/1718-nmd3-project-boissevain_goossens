@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - **JEREMIE BOISSEVAIN**
+ - **BAVO GOOSSENS**
 
 > Artevelde University College Ghent
 
@@ -69,3 +69,4 @@ Op GitHub ga je naar je repository en klik op **Settings**. Scroll naar beneden 
 
  - Basissjabloon <https://gdmgent-1718-nmd3.github.io/1718-nmd3-project>
  - Persoonlijke repo van Bart Missant <https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-Bartmi>
+ - **Project <https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-bozapp>**

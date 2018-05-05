@@ -13,8 +13,11 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - **JEREMIE BOISSEVAIN**
+ - **BAVO GOOSSENS**
 
 Gekozen Museum
 --------------
+
+ - **Bozar**
+ - [Website Bozar](https://www.bozar.be "Bozar's Homepage")

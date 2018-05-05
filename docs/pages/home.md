@@ -4,11 +4,11 @@ permalink: home
 
 # Custom Page Variables
 # ─────────────────────
-title: Opdracht NMD-III
+title: Opdracht NMD-III BozApp
 ---
 
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - JEREMIE BOISSEVAIN, 2CMO-PD
+ - BAVO GOOSSENS, 2CMO-PD
