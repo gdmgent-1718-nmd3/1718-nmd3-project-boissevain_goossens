@@ -69,4 +69,4 @@ Op GitHub ga je naar je repository en klik op **Settings**. Scroll naar beneden 
 
  - Basissjabloon <https://gdmgent-1718-nmd3.github.io/1718-nmd3-project>
  - Persoonlijke repo van Bart Missant <https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-Bartmi>
- - **Project <https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-bozapp>**
+ - **Project <https://gdmgent-1718-nmd3.github.io/1718-nmd3-project-boissevain_goossens>**
