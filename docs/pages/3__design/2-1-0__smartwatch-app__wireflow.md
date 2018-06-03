@@ -7,4 +7,4 @@ published: true
 title: Wireflow
 ---
 
-
+![Smartwatch Wireflow](../../../assets/images/svg/smartwatch_wireflow.svg){: .img_borderless}

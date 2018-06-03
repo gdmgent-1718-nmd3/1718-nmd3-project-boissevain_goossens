@@ -18,3 +18,59 @@
 .gdm-view {
   flex: 2 1 66%;
 }
+
+
+h1 {
+  font-family: $font-main;
+  font-size: 50px;
+  font-weight: 700;
+  margin-top: 80px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: $font-main;
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 4rem; 
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-family: $font-main;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+  border-top: 4px solid black;
+  color: $secondary;
+}
+
+h4 {
+  font-family: $font-main;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+
+h5 {
+  font-family: $font-main;
+  font-size: 16px;  
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+p {
+  font-family: $font-secondary;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+blockquote p {
+    font-size: 16px;
+}
+
+strong {
+  color: $primary;
+  font-weight: bold;
+}

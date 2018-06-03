@@ -1,7 +1,7 @@
 ---
 layout   : default
 permalink: design/website/sitemap/
-published: true
+published: false
 # Custom Page Variables
 # ─────────────────────
 title: Sitemap

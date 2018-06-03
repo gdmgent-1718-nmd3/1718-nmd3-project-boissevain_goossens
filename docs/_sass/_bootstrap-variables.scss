@@ -10,13 +10,21 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+$dark: black;
+$primary: #9F4B4B;
+$primary-half: rgba(159, 75, 75, 0.5); 
+$light: white;
+$secondary: #2D5B88;
+$grey: #707070;
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Titillium Web');
+@import url('https://fonts.googleapis.com/css?family=IBM Plex Sans');
 
-$font-family-base: Merriweather, serif;
+$font-family-base: Titillium Web, serif;
+
+$font-main: Titillium Web;
+$font-secondary: IBM Plex Sans;

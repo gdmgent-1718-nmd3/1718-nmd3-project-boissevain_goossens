@@ -4,9 +4,12 @@ $nav-link-indentation-base: 3rem;
 $nav-link-indentation-level: 1rem;
 
 .gdm-nav {
-  background-color: $dark;
+  background-color: $light;
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
+  -webkit-box-shadow: inset -4px 5px 25px -6px rgba(0,0,0,0.85);
+  -moz-box-shadow: inset -4px 5px 25px -6px rgba(0,0,0,0.85);
+  box-shadow: inset -4px 5px 25px -6px rgba(0,0,0,0.85);
 }
 
 .nav-link {
@@ -18,11 +21,20 @@ $nav-link-indentation-level: 1rem;
     position: absolute;
   }
   &.active {
-    background-color: $primary;
+    background-color: #17a2b8;
     color: $light;
+    border: 1px solid white;
+    border-right: none;
+    border-left: none;
   }
   &.disabled {
-
+    text-transform: uppercase;
+    background-color: $primary;
+    color: $light;
+    border-top: 2px solid white;
+  }
+  &:hover {
+    color: #ffc107;
   }
 }
 
@@ -31,7 +43,7 @@ $nav-link-indentation-level: 1rem;
     padding-left: $nav-link-indentation-base;
     > i {
       left: .5rem;
-      opacity: .5;
+      opacity: 1.0;
       position: absolute;
       line-height: inherit;
     }
@@ -51,6 +63,8 @@ $nav-link-indentation-level: 1rem;
       content: counter(nav-link-1);
       counter-increment: nav-link-1;
     }
+    background-color: $primary-half;
+    color: $light;
   }
   &-2 {
     counter-reset: nav-link-3;
@@ -59,6 +73,8 @@ $nav-link-indentation-level: 1rem;
       content: counter(nav-link-1) "." counter(nav-link-2);
       counter-increment: nav-link-2;
     }
+    background-color: #7c3b3b;
+    color: $light;
   }
   &--3 {
     padding-left: $nav-link-indentation-base + 2 * $nav-link-indentation-level;

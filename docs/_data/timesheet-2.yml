@@ -1,28 +1,43 @@
 # ╔═══════════╗
-# ║ Student 2 ║
+# ║    Bavo   ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1
+  task: Briefing.
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 10
+  task: Hoorcolleges.
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 4
+  task: Werkcolleges.
+-
+  time: 2
+  task: Elevator Pitch (presentatie + voorbereiding).
+-
+  time: 6
+  task: Bezoek museum + verwerking interviews.
+-
+  time: 8
+  task: Brainstorm & opzoekwerk
+-
+  time: 2
+  task: Styletiles
+-
+  time: 10
+  task: Smartwatch-App Wireflow & Screen Designs
+-
+  time: 14
+  task: Smartphone-App Wireflow & Screen Designs
+-
+  time: 6
+  task: Website Sitemap, Wireframes & Screen Designs
+-
+  time: 10
+  task: Opstellen productiedossier
+-
+  time: 4
+  task: Opstellen Digital UI Style Guide
 -
   time: 1
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  task: Jury voorbereiding

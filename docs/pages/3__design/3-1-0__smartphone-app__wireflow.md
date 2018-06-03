@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
+
+![Smartwatch Wireflow](../../../assets/images/svg/smartphone_wireflow.svg){: .img_borderless}

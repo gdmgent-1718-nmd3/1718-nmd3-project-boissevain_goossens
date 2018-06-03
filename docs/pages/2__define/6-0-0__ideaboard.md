@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+
+![Mood/Ideaboard](../../assets/images/png/moodboard.png){: .img_borderless}

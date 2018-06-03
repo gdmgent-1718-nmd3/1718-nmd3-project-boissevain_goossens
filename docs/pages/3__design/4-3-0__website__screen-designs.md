@@ -1,7 +1,7 @@
 ---
 layout   : default
 permalink: design/website/screen-designs/
-published: true
+published: false
 # Custom Page Variables
 # ─────────────────────
 title: Screen Designs

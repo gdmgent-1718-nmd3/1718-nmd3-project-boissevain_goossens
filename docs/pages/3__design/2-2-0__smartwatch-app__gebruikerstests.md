@@ -1,7 +1,7 @@
 ---
 layout   : default
 permalink: design/smartwatch-app/gebruikerstests/
-published: true
+published: false
 # Custom Page Variables
 # ─────────────────────
 title: Gebruikerstests

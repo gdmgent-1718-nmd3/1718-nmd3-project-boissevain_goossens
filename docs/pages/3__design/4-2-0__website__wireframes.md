@@ -1,7 +1,7 @@
 ---
 layout   : default
 permalink: design/website/wireframes/
-published: true
+published: false
 # Custom Page Variables
 # ─────────────────────
 title: Wireframes
