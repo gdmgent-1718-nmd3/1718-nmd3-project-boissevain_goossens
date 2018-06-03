@@ -9,7 +9,7 @@ title: Technische Analyse
 
 **Wij hebben geopteerd om voor deze applicatie in de eerste instantie gebruik te maken van Android toestellen. Mede omwille van de klassieke vorm van de Android Wear smartwatches dat een mooi contrast kan vormen met een strak, modern ontwerp**
 
-Android Wear (Moto 360 2nd gen) - Relevante specificaties
+Android Wear (Moto 360 2nd gen) - specificaties
 --------
 ![Android Wear](../../assets/images/jpg/google-wear.jpg){: .img_border}
 

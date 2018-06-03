@@ -31,6 +31,37 @@
     padding-left: 153px;   
 }
 
+.AdobeXD_laptop {
+    background-image: url(../../assets/images/png/laptop.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 0px;
+    padding-left: 0px;
+    height: 40rem;
+    margin: 2rem;       
+}
+
+.AdobeXD_laptop .laptop {
+    position: relative;
+    overflow: hidden;
+    padding-top: 43%;
+    top: 1.59rem;
+}
+
+.AdobeXD_laptop .laptop iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.AdobeXD_laptop {
+    margin-top: 2rem;
+    margin-bottom: -1rem;
+}
+
 .AdobeXD_wrapper {
     overflow: hidden;
     position: absolute;
@@ -81,11 +112,18 @@
 .img_border {
     width: 100%;
     margin-bottom: -10px;
-    border: 2px solid $secondary;
+    border: solid 1px #ced4da;
+    -webkit-box-shadow: 3px -1px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 3px -1px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 3px -1px 5px 0px rgba(0,0,0,0.15);    
 }
 
 .img_borderless {
     width: 100%;
+}
+
+.ux_tests div {
+    padding: 0.5rem;
 }
 
 li {
@@ -94,7 +132,7 @@ li {
 
 ol {
   padding: 30px;
-  border: 2px solid $secondary;
+  border: solid 1px #ced4da;
   -webkit-box-shadow: 2px 5px 7px 2px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 2px 5px 7px 2px rgba(0, 0, 0, 0.1);
   box-shadow: 2px 5px 7px 2px rgba(0, 0, 0, 0.1);
@@ -115,9 +153,11 @@ ol li:before {
 
 ul {
   background-color: $light;
-  padding: 30px;
-  padding-left: 40px;
-  border: solid 2px $primary;
+  padding: 1rem 3.5rem;
+  border: solid 1px #ced4da;
+  -webkit-box-shadow: 3px 7px 5px 0px rgba(0,0,0,0.25);
+  -moz-box-shadow: 3px 7px 5px 0px rgba(0,0,0,0.25);
+  box-shadow: 3px 7px 5px 0px rgba(0,0,0,0.15);  
 }
 
 ul li ul {

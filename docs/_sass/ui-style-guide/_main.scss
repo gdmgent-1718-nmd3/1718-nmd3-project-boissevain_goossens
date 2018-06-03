@@ -63,16 +63,53 @@
 		}
 	}
 
-	div .buttons {
+	div .columns {
 		cursor: pointer;
+		margin: 0 auto;
+		margin-bottom: 2rem;
+	}
+
+	div .textfields {
+	    min-height: 10rem;
+	    max-height: 10rem;
+	    margin-top: 2rem;
+
+		.text_field1 {
+			background-image: url('../../assets/images/svg/styleguide/text-field1.svg');
+			background-size: 100% 100%;
+			width: 100%;
+			height: 100%;		
+		}
+
+		.col-12 {
+			margin-bottom: 1.5rem;
+		}
+
+		.text_field2 {
+			background-image: url('../../assets/images/svg/styleguide/text-field2.svg');
+			background-size: 100% 100%;
+			width: 100%;
+			height: 100%;
+		}
+
+		.ticker {
+			background-image: url('../../assets/images/svg/styleguide/ticker.svg');
+			background-size: 100% 100%;
+			width: 100%;
+			height: 100%;
+		}			
+	}
+
+	div .buttons {
 
 		div {
 			width: 85px;
 			height: 85px;
+			margin: 0 auto;			
 		}
 
 		.buttons_home {
-
+			margin: 0 auto;
 		}
 
 		.buttons_add {
@@ -84,16 +121,48 @@
 			}
 		}
 
+		.buttons_arrow {
+			background-image: url('../../assets/images/svg/styleguide/arrow-down.svg');
+			background-size: 100% 100%;
+
+			&:hover {
+				background-image: url('../../assets/images/svg/styleguide/arrow-up.svg');
+			}			
+		}
+
+		.buttons_drop {
+			background-image: url('../../assets/images/svg/styleguide/drop-close.svg');
+			background-size: 100% 100%;
+
+			&:hover {
+				background-image: url('../../assets/images/svg/styleguide/drop-open.svg');
+			}
+		}		
+
+		.buttons_info {
+			background-image: url('../../assets/images/svg/styleguide/info-click.svg');
+			background-size: 100% 100%;
+
+			&:hover {
+				background-image: url('../../assets/images/svg/styleguide/info-static.svg');
+			}			
+		}
+
 		.buttons_switch {
 			background-image: url('../../assets/images/svg/styleguide/switch-off.svg');
 			background-size: 100% 100%;
 
 			&:hover {
 				background-image: url('../../assets/images/svg/styleguide/switch-on.svg');
-			}
-			
-			&:active {
-				background-image: url('../../assets/images/svg/styleguide/switch-on.svg');
 			}			
-		}				
+		}
+
+		.buttons_start {
+			background-image: url('../../assets/images/svg/styleguide/start-blue.svg');
+			background-size: 100% 100%;
+
+			&:hover {
+				background-image: url('../../assets/images/svg/styleguide/start-red.svg');
+			}			
+		}					
 	}
